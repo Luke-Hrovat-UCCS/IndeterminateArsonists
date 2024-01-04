@@ -1,0 +1,47 @@
+{
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_instructions_button",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,},
+  ],
+  "managed": true,
+  "overriddenProperties": [
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_par_button","path":"objects/obj_par_button/obj_par_button.yy",},"propertyId":{"name":"original_sprite","path":"objects/obj_par_button/obj_par_button.yy",},"value":"spr_instructions_button",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_par_button","path":"objects/obj_par_button/obj_par_button.yy",},"propertyId":{"name":"highlighted_sprite","path":"objects/obj_par_button/obj_par_button.yy",},"value":"spr_instructions_button_highlighted",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_par_button","path":"objects/obj_par_button/obj_par_button.yy",},"propertyId":{"name":"clicked_sprite","path":"objects/obj_par_button/obj_par_button.yy",},"value":"spr_instructions_button_clicked",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_par_button","path":"objects/obj_par_button/obj_par_button.yy",},"propertyId":{"name":"destination","path":"objects/obj_par_button/obj_par_button.yy",},"value":"rm_instructions",},
+  ],
+  "parent": {
+    "name": "rooms",
+    "path": "folders/Objects/Buttons/rooms.yy",
+  },
+  "parentObjectId": {
+    "name": "obj_par_button",
+    "path": "objects/obj_par_button/obj_par_button.yy",
+  },
+  "persistent": false,
+  "physicsAngularDamping": 0.1,
+  "physicsDensity": 0.5,
+  "physicsFriction": 0.2,
+  "physicsGroup": 1,
+  "physicsKinematic": false,
+  "physicsLinearDamping": 0.1,
+  "physicsObject": false,
+  "physicsRestitution": 0.1,
+  "physicsSensor": false,
+  "physicsShape": 1,
+  "physicsShapePoints": [],
+  "physicsStartAwake": true,
+  "properties": [],
+  "solid": false,
+  "spriteId": {
+    "name": "spr_instructions_button",
+    "path": "sprites/spr_instructions_button/spr_instructions_button.yy",
+  },
+  "spriteMaskId": {
+    "name": "spr_grading_button",
+    "path": "sprites/spr_grading_button/spr_grading_button.yy",
+  },
+  "visible": true,
+}
